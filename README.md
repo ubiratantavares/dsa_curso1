@@ -8,15 +8,57 @@
 
 ## Módulo 01 - Introdução
 
+* Neste módulo não há notebooks desenvolvidos.
+
 ## Módulo 02 - Primeiros Passos com a Lingugem Python - Visão Geral, Instalação e ChatGPT
+
+* Lab1-Primeiros Passos com a Linguagem Python: Teste.ipynb
 
 ## Módulo 03 - Linguagem Python Nível Introdutório - Introdução à Lógica de Programação
 
+* Pseudocódigo 1 - Calcular a Área de um Paralelogramo: DSA-Python-Cap03-01-Intro.ipynb
+* Pseudocódigo 2 - Calculadora Simples: DSA-Python-Cap03-01-Intro.ipynb
+* Pseudocódigo 3 - Algoritmo Bubble Sort: DSA-Python-Cap03-01-Intro.ipynb
+
 ## Módulo 04 - Linguagem Python Nível Introdutório - Variáveis, Tipos e Estruturas de Dados
+
+* Números e Operações Matemáticas em Python: DSA-Python-Cap04-01-Numeros.ipynb
+* Variáveis e Operadores em Python: DSA-Python-Cap04-02-Variaveis.ipynb
+* Strings e Indexação em Python: DSA-Python-Cap04-03-Strings.ipynb
+* Estruturas de Dados - Trabalhando com Listas em Python: DSA-Python-Cap04-04-Listas.ipynb
+* Estruturas de Dados - Trabalhando com Dicionários em Python: DSA-Python-Cap04-05-Dicionarios.ipynb
+* Estruturas de Dados - Trabalhando com Tuplas em Python: DSA-Python-Cap04-06-Tuplas.ipynb
 
 ## Módulo 05 - Linguagem Python Nível Introdutório - Loops, Condicionais, Métodos e Funções
 
+* Inicializando o Ambiente de Trabalho
+* Trabalhando com Condicionais em Python: DSA-Python-Cap05-01-Condicionais.ipynb
+* Operadores Relacionais em Python: DSA-Python-Cap05-01-Condicionais.ipynb
+* Condicionais Alinhados em Python: DSA-Python-Cap05-01-Condicionais.ipynb
+* Operadores Lógicos em: DSA-Python-Cap05-01-Condicionais.ipynb
+* Trabalhando com Loop For em Python: DSA-Python-Cap05-02-Loop-For.ipynb
+* Loop For Aninhado em Python: DSA-Python-Cap05-02-Loop-For.ipynb
+* Trabalhando com Loop While em Python: DSA-Python-Cap05-03-Loop-While.ipynb
+* Loop For e While Juntos e Tempo de Execução em Python: DSA-Python-Cap05-03-Loop-While.ipynb
+* Gerando Intervalos de Valores em Python: DSA-Python-Cap05-04-Range.ipynb
+* Métodos em Python: DSA-Python-Cap05-05-Metodos.ipynb
+* Trabalhando com Funções em Python: DSA-Python-Cap05-06-Funcoes.ipynb
+* Escopo de Variável em Python - Local e Global: DSA-Python-Cap05-06-Funcoes.ipynb
+* Usando Funções Built-in em Python: DSA-Python-Cap05-06-Funcoes.ipynb
+* Criando Funções Usando Outras Funções em Python: DSA-Python-Cap05-06-Funcoes.ipynb
+* Fazendo Split dos Dados em Python: DSA-Python-Cap05-06-Funcoes.ipynb
+* Expressão Lambda em Python: DSA-Python-Cap05-07-Lambda.ipynb
+* List Comprehension e Dict Comprehension em Python: DSA-Python-Cap05-07-List-Comprehension.ipynb
+* Lab 2 - Construindo Calculadora em Python: calculadora_v1.py
+
 ## Módulo 06 - Linguagem Python Nível Introdutório - Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
+
+* Manipulação de Arquivos em Python - Parte 1/5: DSA-Python-Cap06-01-Arquivos
+* Manipulação de Arquivos em Python - Parte 2/5: DSA-Python-Cap06-01-Arquivos
+* Manipulação de Arquivos em Python - Parte 3/5: DSA-Python-Cap06-01-Arquivos
+* Manipulação de Arquivos em Python - Parte 4/5: DSA-Python-Cap06-01-Arquivos
+* Manipulação de Arquivos em Python - Parte 5/5: DSA-Python-Cap06-01-Arquivos
+
 
 ## Módulo 07 - Projeto 1 e Avaliação 1
 
